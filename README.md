@@ -23,3 +23,10 @@ https://www.ffmpeg.org/download.html
 - `video/` – downloaded video segments
 - `audio/` – downloaded audio segments
 - `final_with_audio.mp4` – finished file
+
+## Disclaimer
+
+This tool is provided for educational and testing purposes only.
+
+Only use it on streams that you own or have explicit permission to download.
+The author is not responsible for misuse or copyright violations.
